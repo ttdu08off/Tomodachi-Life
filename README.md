@@ -1,3 +1,1 @@
-# Tomodachi-Life
-Projet Tomodachi Life sur Scratch
-Ceci est un teste
+# Bienvenue sur le Projet Tomodachi Life sur Scratch !
