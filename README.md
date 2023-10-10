@@ -4,10 +4,13 @@ Le dev de Tomodachi Life sur Scratch Reprend ! Nous avons réparé le bug !
 Nous allons continuer à développer le jeu.
 Merci de votre patience !
 Au revoir.
+
 Voici la configuration minimale requise pour éxécuter Tomodachi Life sur Scratch :
 Système d'exploitation : Windows 7 ou plus.
 RAM : 4Go de Mémoire vive.
+
 Voici la configuration recomandée :
 Système d'exploitation : Windows 10 ou plus
 RAM : 8Go de Mémoire Vive
+
 Ce texte à été mis à jour en Octobre 2023.
