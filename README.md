@@ -1,7 +1,6 @@
 # Bienvenue sur le Projet Tomodachi Life sur Scratch !
  ![v0 3](https://repository-images.githubusercontent.com/554908589/8222559f-d0d1-4b1c-b6b4-9715ffafccde)
-Le dev de Tomodachi Life sur Scratch Reprend ! Nous avons réparé le bug !
-Nous allons continuer à développer le jeu.
+Désolé, nous arrêtons le développement pour le moment. Nous vous en reparlerons en temps voulu
 Merci de votre patience !
 Au revoir.
 
