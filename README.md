@@ -15,5 +15,5 @@ RAM : 8Go de Mémoire Vive
 Ce texte à été mis à jour en Octobre 2023.
 
 --------------------------------------------------------------------------------------------
-<g>Ce projet est archivé jusqu'à ce que on reprend le développement</g>
-Merci pour votre compréhension.
+**Ce projet est archivé jusqu'à ce que on reprend le développement.**
+**Merci pour votre compréhension.**
