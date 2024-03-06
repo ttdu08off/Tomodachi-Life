@@ -13,3 +13,7 @@ Système d'exploitation : Windows 10 ou plus
 RAM : 8Go de Mémoire Vive
 
 Ce texte à été mis à jour en Octobre 2023.
+
+--------------------------------------------------------------------------------------------
+Ce projet est archivé jusqu'à ce que on reprend le développement
+Merci pour votre compréhension.
